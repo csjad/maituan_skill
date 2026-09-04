@@ -1,0 +1,12 @@
+# CatPaw auth state (sensitive!)
+*-auth.json
+meituan-coupon-auth.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
